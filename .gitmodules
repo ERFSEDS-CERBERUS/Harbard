@@ -1,0 +1,3 @@
+[submodule "electrical/common_modules"]
+	path = electrical/common_modules
+	url = git@github.com:ERFSEDS-CERBERUS/common_modules.git
